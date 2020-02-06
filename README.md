@@ -5,7 +5,7 @@ Algorithm study
 아래와 같은 양식으로 주석을 표기할 예정
 ```
 /*
-* Date: 
+* Date: 2020.02.01
 * 문제: BOJ 17822. 원판돌리기
 * URL: https://www.acmicpc.net/problem/17822
 * 유형: 시뮬레이션
